@@ -1,0 +1,71 @@
+# Combined Tab Metadata XML Files
+
+## Vehicle__c.tab-meta.xml
+
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomTab xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customObject>true</customObject>
+    <motif>Custom57: Building Block</motif>
+</CustomTab>
+```
+
+---
+
+## Customer__c.tab-meta.xml
+
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomTab xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customObject>true</customObject>
+    <motif>Custom62: Customer</motif>
+</CustomTab>
+```
+
+---
+
+## Dealer__c.tab-meta.xml
+
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomTab xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customObject>true</customObject>
+    <motif>Custom17: Sack</motif>
+</CustomTab>
+```
+
+---
+
+## Vehicle_Order__c.tab-meta.xml
+
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomTab xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customObject>true</customObject>
+    <motif>Custom18: Form</motif>
+</CustomTab>
+```
+
+---
+
+## Test_Drive__c.tab-meta.xml
+
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomTab xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customObject>true</customObject>
+    <motif>Custom59: Transportation</motif>
+</CustomTab>
+```
+
+---
+
+## Service_Request__c.tab-meta.xml
+
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomTab xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customObject>true</customObject>
+    <motif>Custom67: Gears</motif>
+</CustomTab>
+```
