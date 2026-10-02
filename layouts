@@ -1,0 +1,79 @@
+# Combined Layout Metadata Files
+
+---
+
+## Vehicle__c-Layout.layout-meta.xml
+
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout xmlns="http://soap.sforce.com/2006/04/metadata">
+    <layoutSections>
+        <label>Vehicle Information</label>
+        <style>TwoColumnsTopToBottom</style>
+        <detailHeading>true</detailHeading>
+        <editHeading>true</editHeading>
+    </layoutSections>
+</Layout>
+```
+
+---
+
+## Customer__c-Layout.layout-meta.xml
+
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout xmlns="http://soap.sforce.com/2006/04/metadata">
+    <layoutSections>
+        <label>Customer Information</label>
+        <style>TwoColumnsTopToBottom</style>
+        <detailHeading>true</detailHeading>
+        <editHeading>true</editHeading>
+    </layoutSections>
+</Layout>
+```
+
+---
+
+## Dealer__c-Layout.layout-meta.xml
+
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout xmlns="http://soap.sforce.com/2006/04/metadata">
+    <layoutSections>
+        <label>Dealer Information</label>
+        <style>TwoColumnsTopToBottom</style>
+        <detailHeading>true</detailHeading>
+        <editHeading>true</editHeading>
+    </layoutSections>
+</Layout>
+```
+
+---
+
+## Vehicle_Order__c-Layout.layout-meta.xml
+
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout xmlns="http://soap.sforce.com/2006/04/metadata">
+    <layoutSections>
+        <label>Vehicle Order Information</label>
+        <style>TwoColumnsTopToBottom</style>
+        <detailHeading>true</detailHeading>
+        <editHeading>true</editHeading>
+    </layoutSections>
+</Layout>
+```
+
+---
+
+## Test_Drive__c-Layout.layout-meta.xml
+
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout xmlns="http://soap.sforce.com/2006/04/metadata">
+    <layoutSections>
+        <label>Test Drive Information</label>
+        <style>TwoColumnsTopToBottom</style>
+        <detailHeading>true</detailHeading>
+        <editH
+```
