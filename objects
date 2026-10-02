@@ -1,0 +1,56 @@
+force-app/
+└── main/
+    └── default/
+        └── objects/
+            ├── Vehicle__c/
+            │   ├── Vehicle__c.object-meta.xml
+            │   └── fields/
+            │       ├── Vehicle_Name__c.field-meta.xml
+            │       ├── Vehicle_Model__c.field-meta.xml
+            │       ├── Vehicle_Type__c.field-meta.xml
+            │       ├── Price__c.field-meta.xml
+            │       ├── Stock__c.field-meta.xml
+            │       └── Status__c.field-meta.xml
+            │
+            ├── Customer__c/
+            │   ├── Customer__c.object-meta.xml
+            │   └── fields/
+            │       ├── Customer_Name__c.field-meta.xml
+            │       ├── Phone__c.field-meta.xml
+            │       ├── Email__c.field-meta.xml
+            │       └── Address__c.field-meta.xml
+            │
+            ├── Dealer__c/
+            │   ├── Dealer__c.object-meta.xml
+            │   └── fields/
+            │       ├── Dealer_Name__c.field-meta.xml
+            │       ├── Location__c.field-meta.xml
+            │       ├── Contact_Number__c.field-meta.xml
+            │       └── Available_Stock__c.field-meta.xml
+            │
+            ├── Vehicle_Order__c/
+            │   ├── Vehicle_Order__c.object-meta.xml
+            │   └── fields/
+            │       ├── Customer__c.field-meta.xml
+            │       ├── Vehicle__c.field-meta.xml
+            │       ├── Dealer__c.field-meta.xml
+            │       ├── Order_Date__c.field-meta.xml
+            │       ├── Order_Status__c.field-meta.xml
+            │       └── Delivery_Date__c.field-meta.xml
+            │
+            ├── Test_Drive__c/
+            │   ├── Test_Drive__c.object-meta.xml
+            │   └── fields/
+            │       ├── Customer__c.field-meta.xml
+            │       ├── Vehicle__c.field-meta.xml
+            │       ├── Schedule_Date__c.field-meta.xml
+            │       └── Status__c.field-meta.xml
+            │
+            └── Service_Request__c/
+                ├── Service_Request__c.object-meta.xml
+                └── fields/
+                    ├── Vehicle__c.field-meta.xml
+                    ├── Customer__c.field-meta.xml
+                    ├── Request_Date__c.field-meta.xml
+                    ├── Service_Type__c.field-meta.xml
+                    └── Status__c.field-meta.xml
