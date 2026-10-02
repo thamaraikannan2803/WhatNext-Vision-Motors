@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Flow xmlns="http://soap.sforce.com/2006/04/metadata">
+    <apiVersion>64.0</apiVersion>
+    <description>Automatically assigns a dealer when a new vehicle order is created.</description>
+    <label>Vehicle Order Dealer Assignment</label>
+    <processType>AutoLaunchedFlow</processType>
+    <status>Active</status>
+</Flow>
