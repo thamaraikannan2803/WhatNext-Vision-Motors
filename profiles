@@ -1,0 +1,45 @@
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<Profile xmlns="http://soap.sforce.com/2006/04/metadata">
+
+    <custom>true</custom>
+    <userLicense>Salesforce</userLicense>
+
+    <applicationVisibilities>
+        <application>WhatNext_Vision_Motors</application>
+        <default>true</default>
+        <visible>true</visible>
+    </applicationVisibilities>
+
+    <tabVisibilities>
+        <tab>Vehicle__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+
+    <tabVisibilities>
+        <tab>Customer__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+
+    <tabVisibilities>
+        <tab>Dealer__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+
+    <tabVisibilities>
+        <tab>Vehicle_Order__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+
+    <tabVisibilities>
+        <tab>Test_Drive__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+
+    <tabVisibilities>
+        <tab>Service_Request__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+
+</Profile>
+```
