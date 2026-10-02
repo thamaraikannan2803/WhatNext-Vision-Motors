@@ -19,5 +19,52 @@ rad.json
 #License-files
 *.bclicense
 *.flf
+
+
+Salesforce DX
+
+.sfdx/
+.sf/
+.localdevserver/
+coverage/
+node_modules/
+.vscode/
+.idea/
+
+Logs
+
+.log
+npm-debug.log
+yarn-debug.log*
+yarn-error.log*
+
+OS Files
+
+.DS_Store
+Thumbs.db
+
+Temporary Files
+
+*.tmp
+*.temp
+
+Environment Files
+
+.env
+.env.*
+
+Salesforce Authentication
+
+authFile.json
+*.key
+
+Build Output
+
+dist/
+build/
+
+Package Lock (optional)
+
+package-lock.json
 #Test results file
 TestResults.xml
