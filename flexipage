@@ -1,0 +1,30 @@
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<FlexiPage xmlns="http://soap.sforce.com/2006/04/metadata">
+
+    <masterLabel>Vehicle Dashboard</masterLabel>
+
+    <description>
+        Dashboard page for WhatNext Vision Motors.
+    </description>
+
+    <template>
+        <name>flexipage:defaultHomeTemplateDesktop</name>
+    </template>
+
+    <type>AppPage</type>
+
+    <regions>
+        <name>main</name>
+
+        <itemInstances>
+            <componentInstance>
+                <componentName>c__vehicleDashboard</componentName>
+                <identifier>vehicleDashboard</identifier>
+            </componentInstance>
+        </itemInstances>
+
+    </regions>
+
+</FlexiPage>
+```
